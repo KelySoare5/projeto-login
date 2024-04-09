@@ -6,6 +6,7 @@
     }
     section.login{
         width: 90vw;
+        height: 300px;
     }
     div.imagem-login{
         float: left;
@@ -33,6 +34,7 @@
     }
     section.login{
         width: 90vw;
+        height: 400px;
     }
 
     div.imagem-login{

@@ -53,8 +53,22 @@ div.formulario{
     padding: 10px;
 }
 div.campo{
-    background-color: aquamarine;
+    background-color: var(--cordeLilas);
     margin: 7px;
+    border-radius: 10px;
+}
+.material-symbols-outlined{
+    padding: 5px;
+
+    /* color: white; */
+}
+input{
+    border-radius: 10px;
+    background-color: #64dbd7;
+    height: 100%;
+    padding: 5px;
+    width: calc(100% - 70px);
+    transform: translateY(-5px);
 }
 button{
     display: block;
